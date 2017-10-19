@@ -3,4 +3,3 @@ def fizzbuzz(int)
     "Fizz" # Go fizz
   end
 end
- 
