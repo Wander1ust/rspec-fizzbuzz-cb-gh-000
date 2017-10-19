@@ -8,5 +8,4 @@ def fizzbuzz(int)
     int % 15 == 0  # if the number int is divisible by 3
     "Buzz" # Go fizzbuzz
     end
-
 end
